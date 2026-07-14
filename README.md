@@ -78,7 +78,7 @@ streamlit run app.py
 Open the shown local URL in your browser, upload a chest X-ray image, and view prediction and metadata.
 
 ### Run inference from the command line (example)
-If the repo includes an inference script (e.g., `infer.py`):
+If the repo includes an inference script :
 ```bash
 python infer.py --image path/to/xray.jpg --model path/to/model.h5
 ```
