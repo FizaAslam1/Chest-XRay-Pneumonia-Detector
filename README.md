@@ -2,7 +2,8 @@
 
 Deep learning app that classifies chest X-rays as NORMAL or PNEUMONIA using VGG16 transfer learning, tuned to minimise missed pneumonia cases (high recall).
 
-🔗 Live demo: Hugging Face Space (built and deployed by me)
+🔗 Live demo:https://huggingface.co/spaces/FIZA255/pneumonia-detector
+Hugging Face Space (built and deployed by me)
 
 ⚠️ Disclaimer: Research and demo project only. It is not a medical device and must not be used for diagnosis.
 
